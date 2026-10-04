@@ -1,0 +1,107 @@
+{
+  "brand": {
+    "name": "VietinBank",
+    "subBrand": "Hỗ trợ Khách hàng iPay",
+    "logoLocal": "./assets/Logo VietinBank.png",
+    "logoRemote": "https://raw.githubusercontent.com/giadinhbanker/anh-super-app-bac-phu-tho/main/Logo%20VietinBank.png",
+    "hotline": "076.583.0061",
+    "advisorName": "Đỗ Thị Kim Nhi",
+    "advisorRole": "Chuyên viên tư vấn"
+  },
+  "navigation": {
+    "homeLabel": "Menu chính",
+    "guideLabel": "Hướng dẫn chi tiết",
+    "supportLabel": "Liên hệ tư vấn",
+    "endChatLabel": "Kết thúc cuộc trò chuyện",
+    "backToMenuLabel": "Quay lại menu chính"
+  },
+  "welcomeSection": {
+    "kicker": "Cổng hướng dẫn dịch vụ thẻ trực tuyến",
+    "question": "Anh/chị đang gặp khó khăn với nội dung nào?",
+    "subtitle": "Vui lòng chọn nội dung bên dưới để xem hướng dẫn chi tiết từng bước bằng hình ảnh minh hoạ trên ứng dụng VietinBank iPay."
+  },
+  "guides": [
+    {
+      "id": "dong-the-mo-phong-toa-stk",
+      "cardNumber": "01",
+      "cardTitle": "1. Hướng dẫn đóng thẻ tín dụng và mở phong toả dành cho KH phát hành thẻ online bằng hình thức cầm cố sổ tiết kiệm",
+      "shortTitle": "Hướng dẫn đóng thẻ và mở phong toả sổ tiết kiệm",
+      "summary": "Quy trình 6 bước chi tiết trên ứng dụng VietinBank iPay để đóng thẻ tín dụng, đóng tài khoản thẻ tín dụng và tự động mở phong toả sổ tiết kiệm cầm cố online.",
+      "stepCount": 6,
+      "estimatedTime": "3 phút thực hiện",
+      "youtubeUrl": "https://www.youtube.com/results?search_query=VietinBank+iPay+huong+dan+dong+the+tin+dung",
+      "youtubeLabel": "Xem video hướng dẫn trên YouTube",
+      "youtubeSubtitle": "Nhấn vào biểu tượng video để mở ứng dụng YouTube và xem hướng dẫn trực quan",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "stepLabel": "Bước 1",
+          "text": "Bước 1: Đăng nhập vào App VietinBank Ipay và chọn mục thẻ",
+          "detailNote": "Mở ứng dụng VietinBank iPay trên điện thoại, đăng nhập tài khoản và chọn biểu tượng Dịch vụ Thẻ trên màn hình chính.",
+          "imageLocal": "./assets/1.1.JPEG",
+          "imageRemote": "https://raw.githubusercontent.com/hoangbaongoc2002-tech/Camcostk/main/1.1.JPEG",
+          "imageFallback": "https://raw.githubusercontent.com/hoangbaongoc2002-tech/Camcostk/main/1.1.JPEG"
+        },
+        {
+          "stepNumber": 2,
+          "stepLabel": "Bước 2",
+          "text": "Bước 2: Chọn thẻ tín dụng và đóng hết tất cả thẻ tín dụng có trong danh sách thẻ",
+          "detailNote": "Kiểm tra danh sách thẻ tín dụng đang hoạt động và chọn từng thẻ tín dụng cần đóng.",
+          "imageLocal": "./assets/1.2.JPEG",
+          "imageRemote": "https://raw.githubusercontent.com/hoangbaongoc2002-tech/Camcostk/main/1.2.PNG",
+          "imageFallback": "https://raw.githubusercontent.com/hoangbaongoc2002-tech/Camcostk/main/1.2.JPEG"
+        },
+        {
+          "stepNumber": 3,
+          "stepLabel": "Bước 3",
+          "text": "Bước 3: Chọn đóng thẻ",
+          "detailNote": "Tại màn hình quản lý thẻ, nhấn vào chức năng Đóng thẻ và xác nhận thao tác.",
+          "imageLocal": "./assets/1.3.JPEG",
+          "imageRemote": "https://raw.githubusercontent.com/hoangbaongoc2002-tech/Camcostk/main/1.3.JPEG",
+          "imageFallback": "https://raw.githubusercontent.com/hoangbaongoc2002-tech/Camcostk/main/1.3.JPEG"
+        },
+        {
+          "stepNumber": 4,
+          "stepLabel": "Bước 4",
+          "text": "Bước 4: Quay lại màn hình chính chọn mục tài khoản =>> chọn thẻ =>> Chọn tài khoản thẻ tín dụng",
+          "detailNote": "Trở về trang chủ VietinBank iPay, truy cập mục Tài khoản, chuyển sang tab Thẻ và chọn Tài khoản thẻ tín dụng.",
+          "imageLocal": "./assets/1.4.JPEG",
+          "imageRemote": "https://raw.githubusercontent.com/hoangbaongoc2002-tech/Camcostk/main/1.4.PNG",
+          "imageFallback": "https://raw.githubusercontent.com/hoangbaongoc2002-tech/Camcostk/main/1.4.JPEG"
+        },
+        {
+          "stepNumber": 5,
+          "stepLabel": "Bước 5",
+          "text": "Bước 5: Chọn Đóng tài khoản thẻ tín dụng",
+          "detailNote": "Trong chi tiết tài khoản thẻ tín dụng, chọn tính năng Đóng tài khoản thẻ tín dụng.",
+          "imageLocal": "./assets/1.5.JPEG",
+          "imageRemote": "https://raw.githubusercontent.com/hoangbaongoc2002-tech/Camcostk/main/1.5.PNG",
+          "imageFallback": "https://raw.githubusercontent.com/hoangbaongoc2002-tech/Camcostk/main/1.5.JPEG"
+        },
+        {
+          "stepNumber": 6,
+          "stepLabel": "Bước 6",
+          "text": "Bước 6: Màn hình thông báo điều kiện để đóng tài khoản TTD =>> Thoả điều kiện đóng tài khoản về hệ thống tự động mở phong toả sổ tiết kiệm online",
+          "detailNote": "Hệ thống kiểm tra các điều kiện đóng tài khoản thẻ tín dụng. Khi thoả mãn điều kiện, hệ thống sẽ tự động mở phong toả sổ tiết kiệm online cho Quý khách.",
+          "imageLocal": "./assets/1.6.JPEG",
+          "imageRemote": "https://raw.githubusercontent.com/hoangbaongoc2002-tech/Camcostk/main/1.6.PNG",
+          "imageFallback": "https://raw.githubusercontent.com/hoangbaongoc2002-tech/Camcostk/main/1.6.JPEG"
+        }
+      ]
+    }
+  ],
+  "feedbackSection": {
+    "promptQuestion": "Quý khách đã thực hiện theo hướng dẫn ổn hay chưa?",
+    "promptSubtitle": "Hãy cho chúng tôi biết kết quả thực hiện của Anh/Chị để được hỗ trợ kịp thời.",
+    "resolvedButtonLabel": "Đã thực hiện ổn",
+    "unresolvedButtonLabel": "Chưa ổn, cần hỗ trợ thêm",
+    "unresolvedMessage": "Cảm ơn Quý khách đã phản hồi. Quý khách có thể liên hệ Chuyên viên tư vấn Đỗ Thị Kim Nhi – số điện thoại: 076.583.0061 để hỗ trợ trực tiếp. Em sẽ cố gắng cải thiện để phục vụ Quý khách tốt hơn!",
+    "callActionLabel": "Gọi ngay: 076.583.0061",
+    "copyPhoneLabel": "Sao chép số điện thoại",
+    "copiedPhoneLabel": "Đã sao chép số điện thoại",
+    "backToMenuLabel": "Quay lại menu chính",
+    "endConversationLabel": "Kết thúc cuộc trò chuyện",
+    "endConversationMessage": "Cảm ơn Quý khách đã sử dụng dịch vụ của VietinBank. Chúc Quý khách một ngày tốt lành!",
+    "restartButtonLabel": "Bắt đầu lại cuộc trò chuyện"
+  }
+}
